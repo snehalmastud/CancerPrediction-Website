@@ -1,4 +1,4 @@
-# Cancer Prediction
+# Cancer Prediction Website
 
 > This Website is basically detect Malignant and Metastasis Cancer. This site can be more useful for Lab Technician's.
 
